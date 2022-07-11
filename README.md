@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ## 201 Reading Notes
 Table Of Contents
 [Day 1](Class-01.md)
-Day 2
+[Day 2](Class-02.md)
 Day 3
 Day 4 
 Day 5
