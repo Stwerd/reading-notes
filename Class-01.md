@@ -10,7 +10,7 @@ Misc.
   1.The first step to designing a website is what is your issue  
   2 how will a website help solve the problem and what needs to be done with that website to reach your goal.
 Semantics
-  1. You should use a <h1> over an <span> tag when the information you are trying to highlight is important or is a representation of the data thats populated in the website. 
+  1. You should use a \<h1> over an <span>\ tag when the information you are trying to highlight is important or is a representation of the data thats populated in the website. 
   2. Semantics help search enginges connect users to more relevant websites by making it easier to find the key words in your semantics.
 What is Javascript.
   1. Javascript is a scripting language, so graphs, videoplayers, interactive lists are just a few things that would require javascrpit.
