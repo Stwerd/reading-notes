@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 Table Of Contents
 [Day 1](Class-01.md)
 [Day 2](Class-02.md)
-Day 3
+[Day 3](Class-03.md)
 Day 4 
 Day 5
 Day 6 
