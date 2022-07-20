@@ -15,7 +15,7 @@ Table Of Contents <br>
 [Day 5](Class-05.md)<br>
 Day 6 <br>
 Day 7 <br>
-Day 8<br>
+[Day 8](Class-08.md)<br>
 Day 9<br>
 Day 10<br>
 Day 11<br>
