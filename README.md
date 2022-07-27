@@ -17,7 +17,7 @@ Day 6 <br>
 Day 7 <br>
 [Day 8](Class-08.md) <br>
 Day 9<br>
-[Day 10](CLass-10.md) <br>
+[Day 10](Class-10.md) <br>
 [Day 11](Class-11.md) <br>
 [Day 12](Class-12.md) <br>
 [Day 13](Class-13.md) <br>
