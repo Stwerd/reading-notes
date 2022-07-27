@@ -20,6 +20,6 @@ Day 9<br>
 Day 10<br>
 [Day 11](Class-11.md)<br>
 [Day 12](Class-12.md)<br>
-Day 13<br>
+[Day 13](Class-13.md)<br>
 Day 14<br>
 Day 15
