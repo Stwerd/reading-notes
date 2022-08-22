@@ -17,7 +17,7 @@ Table Of Contents <br>
 
 ## Code 301 - Intermediate Software Development
 Table Of Contents <br>
-Day 1     Day 6       Day 11<br>
+Day 1     [Day 6](class-02-301.md)      Day 11<br>
 Day 2     Day 7       Day 12<br>
 [Day 3](class-01-301.md)     Day 8       Day 13<br>
 Day 4     Day 9       Day 14<br>
