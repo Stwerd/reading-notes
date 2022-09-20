@@ -1,0 +1,13 @@
+Reading
+
+Review if helpful: An Introduction to Node.js on sitepoint.com
+
+    How would you describe Node to a non-technical friend?
+    What does it mean that Node is a JavaScript runtime?
+    What is Node used for?
+
+1. I would describe node as a after market car parts you can get for you vehicle. Many different parts can do the same thing, and many parts make existing components of you car better and they work insync with other parts you may add.
+
+2. Being a javascript runtime means that Node runs outside of a browser, it can be called and executed in you console for instance.
+
+3. Node is used by software developers in order to install many different modules to assist in building whatever programs they are designing. 
