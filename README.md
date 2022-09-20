@@ -1,11 +1,4 @@
 # Reading-Notes
-- 👋 Hi, I’m @Stwerd
-- 👀 I’m interested in learning java in seattle 
-
-<!---
-Stwerd/Stwerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ## Code 201 - Foundations of Software Development
 Table Of Contents <br>
