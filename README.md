@@ -23,3 +23,4 @@ Day 2     Day 7       Day 12<br>
 Day 3     Day 8       Day 13<br>
 Day 4     Day 9       Day 14<br>
 Day 5     Day 10      Day 15<br>
+[Terminal Stuff](/401/TerminalPractice.md)
