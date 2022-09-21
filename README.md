@@ -19,7 +19,7 @@ Day 5     Day 10      Day 15<br>
 ## Code 401 - Intermediate Software Development
 Table Of Contents <br>
 [Day 1](/401/class-01-401)     Day 6      Day 11<br>
-Day 2     Day 7       Day 12<br>
+[Day 2](/401/class-02.md)     Day 7       Day 12<br>
 Day 3     Day 8       Day 13<br>
 Day 4     Day 9       Day 14<br>
 Day 5     Day 10      Day 15<br>
